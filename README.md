@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 👋 
+## My name is Blessings Dinake
+
+- 🔭 I am currently working as an Engineer in manufacturing.
+- 🌱 I’m currently studying towards a MEng in Data Science.
+- 👯 I’m looking to collaborate on Data Science, Machine Learning and Deep Learning projects to enhance my learning and hopefully contribute to the community 🫴
+- 📫 Check out my LinkedIn profile for more about me : www.linkedin.com/in/blessings-dinake-75061b1b8
+
+
 
 <!--
 **blessingsdinake/blessingsdinake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
