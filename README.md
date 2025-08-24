@@ -1,5 +1,4 @@
-## Hi there 👋 
-## My name is Blessings Dinake
+## Hi there 👋 and welcome to my page
 
 - 🔭 I am currently working as an Engineer in manufacturing.
 - 🌱 I’m currently studying towards a MEng in Data Science.
